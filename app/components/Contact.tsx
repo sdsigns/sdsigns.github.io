@@ -17,7 +17,7 @@ export function Contact() {
             <ul className="flex flex-col gap-2 text-base text-black">
               <li>
                 <a 
-                  href="#" 
+                  href="https://github.com/sdsigns/sdsigns.github.io/blob/main/assets/CV%20Sanna%20Kangas%202026%20com.pdf" 
                   className="underline hover:no-underline"
                   download
                 >
